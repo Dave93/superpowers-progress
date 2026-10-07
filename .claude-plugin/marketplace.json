@@ -1,0 +1,14 @@
+{
+  "name": "superpowers-progress",
+  "description": "Claude Code mods by Dave93: progress band for superpowers plans",
+  "owner": {
+    "name": "Dave93"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-progress",
+      "source": "./",
+      "description": "Progress band above the prompt for a superpowers plan: overall and per phase, read from the plan file and the SDD ledger"
+    }
+  ]
+}

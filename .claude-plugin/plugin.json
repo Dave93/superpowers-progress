@@ -1,0 +1,9 @@
+{
+  "name": "superpowers-progress",
+  "version": "0.1.0",
+  "description": "Band above the prompt: progress of a superpowers plan, overall and per phase, read from the plan file and the SDD ledger",
+  "author": { "name": "Dave93" },
+  "repository": "https://github.com/Dave93/superpowers-progress",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
